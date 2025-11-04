@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "italiana"  ;
+    src: url(font/Italiana-Regular.ttf);
+}
+
+body {
+background-color: #000000;
+color: #1c1a1a;
+margin: 5;
+padding: 150px;
+}
+.card {
+background-color: rgb(255, 255, 255);
+max-width: 400px;
+margin: auto;
+padding: 20px;
+border-radius: 12px;
+box-shadow: 0 4px 8px rgb(255, 255, 255);
+text-align: center;
+}
+
+img {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+}
+
+title { color: #1c1a1a;
+margin: 5;
+padding: 150px;
+font-family:  'italiana', 'italiana Regular', ;
+
+}
+button {
+background-color: #000000;
+color: white;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+margin-top: 10px;
+}
+button:hover {
+background-color: #6b2b34;
+}
+footer {
+font-family: Futura LT Paneuropean, bold;
+color: #ffffff;
+text-align: center;
+}
+

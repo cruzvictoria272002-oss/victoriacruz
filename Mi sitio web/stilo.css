@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+SC:ital,wght@0,100..900;1,100..900&family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Italiana&display=swap');
+
+body {
+font-family: "Italiana", sans-serif;
+background-color: #fbfafa;
+color: #621616;
+margin: 100;
+padding: 0;
+text-align: center;
+}
+header {
+background-color: #621616;
+color: white;
+padding: 20px;
+text-align: center;
+}
+main {
+padding: 20px;
+}
+button {
+background-color: #621616;
+color: white;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+}
+button:hover {
+background-color: #b98a8a;
+}
+footer {
+background-color: #621616;
+color: white;
+text-align: center;
+padding: 10px;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
